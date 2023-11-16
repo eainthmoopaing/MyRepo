@@ -1,0 +1,2 @@
+# MyRepo
+Git is cool.
